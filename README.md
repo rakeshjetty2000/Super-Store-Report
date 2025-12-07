@@ -57,5 +57,5 @@ It is designed to help businesses quickly identify **profit-driving areas**, **u
 ---
 
 ## 🖼️ Project Preview
-![Dashboard Preview](https://github.com/rakeshjetty2000-alt/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales%20.png)
+![Dashboard Preview](https://github.com/rakeshjetty2000/Super-Store-Report/blob/main/Superstore%20Profit%20Report.png)
 
